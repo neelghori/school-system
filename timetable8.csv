@@ -1,0 +1,31 @@
+Time,Monday,Tuesday,Wednesday,Thrusday,Friday,Saturday,class
+,,,,,,,
+8:00 - 8:30 AM,Maths,Maths,Maths,Maths,Maths,Maths,8
+8:30 - 9:00 AM,Science,Social Science,Maths,Social Science,Maths,Social Science,8
+9:00 - 9:30 AM,English,Hindi,Science,Hindi,Science,Social Science,8
+9:30 - 10:00 AM,English,Hindi,Social Science,Hindi,Hindi,Science,8
+10:00 - 10:30 AM,Lunch,Lunch,Lunch,Lunch,Lunch,English,8
+10:30 - 11:00 AM,Hindi,Maths,Hindi,English,Social Science,,8
+11:00 - 11:30 AM,Social Science,English,Social Science,Science,Hindi,,8
+11:30 - 12:00 PM,Social Science,Science,Science,Science,English,,8
+12:00 - 12:30 PM,English,Science,Science,English,Science,,8
+,,,,,,,
+8:00 - 8:30 AM,Social Science,Social Science,Social Science,Social Science,Social Science,Social Science,9
+8:30 - 9:00 AM,Maths,Science,Science,Science,English,Hindi,9
+9:00 - 9:30 AM,Science,English,Maths,Maths,English,English,9
+9:30 - 10:00 AM,English,Hindi,Hindi,English,Science,Maths,9
+10:00 - 10:30 AM,Lunch,Lunch,Lunch,Lunch,Lunch,Lunch,9
+10:30 - 11:00 AM,Science,Science,Science,English,Maths,,9
+11:00 - 11:30 AM,Maths,Science,English,Hindi,Maths,,9
+11:30 - 12:00 PM,Social Science,Social Science,Maths,Hindi,Hindi,,9
+12:00 - 12:30 PM,Hindi,English,Hindi,Social Science,Social Science,,9
+,,,,,,,
+8:00 - 8:30 AM,Maths,Maths,Maths,Maths,Maths,Maths,10
+8:30 - 9:00 AM,Science,Science,Science,Science,Science,Science,10
+9:00 - 9:30 AM,English,Social Science,Hindi,Social Science,English,Social Science,10
+9:30 - 10:00 AM,Social Science,Hindi,Social Science,Social Science,Social Science,English,10
+10:00 - 10:30 AM,Lunch,Lunch,Lunch,Lunch,Lunch,Lunch,10
+10:30 - 11:00 AM,Social Science,English,Hindi,English,Hindi,,10
+11:00 - 11:30 AM,Science,Maths,Maths,Maths,Science,,10
+11:30 - 12:00 PM,Hindi,Hindi,Science,Hindi,English,,10
+12:00 - 12:30 PM,Social Science,Science,Social Science,Science,Social Science,,10
